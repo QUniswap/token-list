@@ -1,0 +1,49 @@
+{
+  "name": "Q Blockchain Token List",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/QUniswap/token-list/main/assets/ethereum-logo.png",
+  "keywords": [
+    "paltypus",
+    "tokens",
+    "refi"
+  ],
+  "timestamp": "2023-12-20T15:00:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Wrapped BTC",
+      "address": "0xde397e6C442A3E697367DecBF0d50733dc916b79",
+      "symbol": "QBTC",
+      "decimals": 8,
+      "chainId": 35441,
+      "logoURI": "https://raw.githubusercontent.com/QUniswap/token-list/main/assets/qbtc-logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xDeb87c37Dcf7F5197026f574cd40B3Fc8Aa126D1",
+      "symbol": "QDAI",
+      "decimals": 18,
+      "chainId": 35441,
+      "logoURI": "https://raw.githubusercontent.com/QUniswap/token-list/main/assets/qdai-logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x79Cb92a2806BF4f82B614A84b6805963b8b1D8BB",
+      "symbol": "QUSDC",
+      "decimals": 6,
+      "chainId": 35441,
+      "logoURI": "https://raw.githubusercontent.com/QUniswap/token-list/main/assets/qusdc-logo.png"
+    },
+    {
+      "name": "QUSD",
+      "address": "0xE31DD093A2A0aDc80053bF2b929E56aBFE1B1632",
+      "symbol": "QUSD",
+      "decimals": 18,
+      "chainId": 35441,
+      "logoURI": "https://raw.githubusercontent.com/QUniswap/token-list/main/assets/qusd-logo.png"
+    }
+  ]
+}
